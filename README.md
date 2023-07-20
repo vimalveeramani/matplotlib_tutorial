@@ -44,8 +44,8 @@ Each topic includes sample code and instructions on how to use it.
 
 ## Author
 
-This tutorial was created by [Vimal Veeramani]. If you have any questions or comments, please email me at [vimalveeramani45@gmail.com].
+This tutorial was created by [[vimal veeramani](https://github.com/vimalveeramani)]. If you have any questions or comments, please email me at [vimalveeramani45@gmail.com].
 
 ## Acknowledgements
 
-This tutorial was inspired by [AlmaBetter], and I would like to thank them for their work.
+This tutorial was inspired by [[AlmaBetter](https://www.almabetter.com/)], and I would like to thank them for their work.
